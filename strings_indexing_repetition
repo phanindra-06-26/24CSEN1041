@@ -1,0 +1,17 @@
+name="phani"
+
+print(name[1])
+print(name[0])
+print(name[-1])
+print(name[2])
+print(name[-2])
+print()
+name="phani"
+print("phani"*3)
+###output
+h
+p
+i
+a
+n
+phaniphaniphani
