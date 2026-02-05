@@ -1,0 +1,45 @@
+first_name = "John"
+last_name = "Doe"
+
+full_name = first_name + " " + last_name
+print(full_name)
+
+
+
+print(len(first_name))
+
+
+
+###output
+John Doe
+4
+
+
+2)))))))
+x = "Py"
+y = "thon"
+
+print(x + y)
+
+
+first = "Good"
+second = "Luck"
+
+combined = first + " " + second
+print(combined)
+print(len(combined))
+
+#####output
+
+
+Length of the word is: 8
+
+Good Luck
+9
+
+=== Code Execution Successful ===
+
+
+
+
+
